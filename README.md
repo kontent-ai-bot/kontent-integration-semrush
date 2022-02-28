@@ -70,10 +70,6 @@ We have collected notes on how to contribute to this project in [CONTRIBUTING.md
   <img src="https://contrib.rocks/image?repo=Kentico/kontent-integration-semrush" />
 </a>
 
-## License
-
-[MIT](https://tldrlegal.com/license/mit-license)
-
 ## Additional Resources
 
 - [Custom Element Gallery on github](https://kentico.github.io/kontent-custom-element-samples/gallery/)
