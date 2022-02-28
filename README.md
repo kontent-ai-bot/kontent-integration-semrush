@@ -15,8 +15,8 @@
 [![GitHub Discussions][discussion-shield]](https://github.com/Kentico/Home/discussions)
 
 <p align="center">
-<image src="docs/01-kk-logo-main.svg" alt="kontent logo" width="250" style="vertical-align: middle;"/>
-<image src="docs/semrush-logo.png" alt="recombee logo" width="350" style="vertical-align: middle;" >
+<image src="docs/01-kk-logo-main.svg" alt="kontent logo" width="150" /><br/>
+<image src="docs/semrush-logo.png" alt="semrush logo" width="350" >
 </p>
 
 <p align="center">
@@ -52,11 +52,15 @@ Please, keep in mind, that you have to pick the same keyword element from the dr
 ## Authentication
 Once the extension is setup, everybody accessing the page with the custom element will be prompted to login into their Semrush account.
 
-![login1]
+<p align="center">
+<image src="docs/login1.png" alt="semrush login1" >
+</p>
 
 Once you login, you'll have to approve Kontent's integration accessing the analytics data. 
 
-![login2]
+<p align="center">
+<image src="docs/login2.png" alt="semrush login2" >
+</p>
 
 Once this is setup, you'll be able to work with the integration and analyze inserted keywords.
 
