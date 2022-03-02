@@ -1,6 +1,6 @@
 [![Review][review]](https://kontent.ai/integrations/semrush)
 
-> ⚠ This repository is under the review. Please be noted that any infromation and code might be a subject of change.
+> ⚠ Source code of this repository is private due to security and legal reasons
 
 [![Core integration][core-shield]](https://kontent.ai/integrations/semrush)
 [![Gallery][gallery-shield]](https://kentico.github.io/kontent-custom-element-samples/gallery/)
@@ -15,7 +15,7 @@
 [![GitHub Discussions][discussion-shield]](https://github.com/Kentico/Home/discussions)
 
 <p align="center">
-<image src="docs/01-kk-logo-main.svg" alt="kontent logo" width="150" /><br/>
+<image src="docs/kk-logo.png" alt="kontent logo" width="200" /><br/>
 <image src="docs/semrush-logo.png" alt="semrush logo" width="350" >
 </p>
 
@@ -38,8 +38,6 @@ Editors can analyze lists of keywords accross different regions. The editor need
 ![Demo Animation][product-demo]
 
 ## Configuring the Custom Element
-
-> **⚠ WARNING: You have to have a Semrush account in order to use this extension** 
 
 To install and configure your extensions, simply create a custom element in your desired content model and fill out the following values:
 
