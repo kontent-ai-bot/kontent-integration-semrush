@@ -1,5 +1,3 @@
-[![Review][review]](https://kontent.ai/integrations/semrush)
-
 > ⚠ Source code of this repository is private due to security and legal reasons
 
 [![Core integration][core-shield]](https://kontent.ai/integrations/semrush)
